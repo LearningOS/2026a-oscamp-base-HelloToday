@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HelloToday",
-  "commit": "5ad237c44e5ff17c4dd3897da45ff7fe8a059905",
-  "score": 34,
+  "commit": "be0f8197411e849dd0375d74e326f2e8ffe0ad39",
+  "score": 43,
   "totalScore": 100,
   "exercises": [
     {
@@ -65,16 +65,16 @@
     {
       "name": "fd_table",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_ordering",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HelloToday",
-  "runId": "37280519808",
+  "runId": "37327239187",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
